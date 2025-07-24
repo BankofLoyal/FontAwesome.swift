@@ -3,5 +3,5 @@ source "https://rubygems.org"
 
 gem "cocoapods"
 gem "danger"
-gem "danger-swiftlint"
+gem "danger-swiftlint", ">= 0.37.2"
 gem "fastlane"
