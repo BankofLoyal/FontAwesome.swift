@@ -2,6 +2,6 @@
 source "https://rubygems.org"
 
 gem "cocoapods"
-gem "danger"
-gem "danger-swiftlint"
-gem "fastlane"
+gem "danger", ">= 6.2.0"
+gem "danger-swiftlint", ">= 0.24.0"
+gem "fastlane", ">= 2.139.0"
